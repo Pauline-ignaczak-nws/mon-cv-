@@ -1,0 +1,81 @@
+img {
+  height: 500px;
+  border-radius: 30px;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  color: #000000;
+  line-height: 1.6;
+  font-display: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  background: #dedede;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2em;
+  color: #b3007a;
+}
+
+.contact-info p {
+  margin: 5px 0;
+  font-size: 0.9em;
+  text-align: center;
+}
+
+.contact-info a {
+  color: #b3007a;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+section h2 {
+  font-size: 1.5em;
+  color: #b3007a;
+  border-bottom: 2px solid #b3007a;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+section ul {
+  list-style: square inside;
+  margin: 10px 0 0 20px;
+  padding: 0;
+}
+
+section ul li {
+  margin: 5px 0;
+}
+
+.skills p,
+.languages p {
+  margin: 5px 0;
+  font-size: 0.9em;
+}
+
+.languages p {
+  display: center;
+  justify-content: space-between;
+}
