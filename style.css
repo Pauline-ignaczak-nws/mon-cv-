@@ -24,7 +24,7 @@ body {
 .header h1 {
   margin: 0;
   font-size: 2em;
-  color: #b3007a;
+  color: #000000;
 }
 
 .contact-info p {
@@ -50,7 +50,6 @@ section h2 {
   font-size: 1.5em;
   color: #000000;
   border-bottom: 2px solid #000000;
-  border-right: 20px#000000;
   padding-bottom: 5px;
   margin-bottom: 10px;
 }
